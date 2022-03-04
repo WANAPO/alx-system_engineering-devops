@@ -1,2 +1,2 @@
-#!/nin/bash
-'file iamafile/temp'
+#!/bin/bash
+'file /temp/iamafile'

@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bi/bash
+=======
+i#!/bin/bash
+>>>>>>> 5007037eac9464b20d04cb415c92c45691b3ded2
 mkdir -p welcome/to/school
